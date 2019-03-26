@@ -1,5 +1,5 @@
 {
-    "name": "icanhazstring/composer-unused",
+    "name": "joelcorominas/composer-unused",
     "type": "composer-plugin",
     "description": "Show unused packages by scanning your code",
     "keywords": [
